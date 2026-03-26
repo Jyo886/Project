@@ -15,7 +15,6 @@
 
 ## Student Info
 - **Name**: Jyostna Marella
-- **Student ID**: 700761880
 
 ## Screenshots
 Had uploaded through repository
